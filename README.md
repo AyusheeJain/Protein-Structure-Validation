@@ -13,7 +13,6 @@ This project aims to learn structural bioinformatics by analyzing experimentally
 | Structure Source | Protein Data Bank (PDB) |
 | Experimental Method | X-ray Crystallography |
 | Organism | Homo sapiens |
-| Resolution | (Add from PDB page) |
 
 During structural validation, the original PDB structure (4EYD) was processed using MolProbity. Hydrogen atoms were added and structural optimization was performed, generating the corrected structure (4EYDH). All subsequent analyses were carried out using the optimized structure.
 
