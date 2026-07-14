@@ -1,0 +1,34 @@
+Using electron cloud x-H distances and vdW radii
+
+Using input model H/D atoms...
+
+Bad Clashes >= 0.4 Angstrom:
+ D  27 BTHR HG23  D 209  HOH  O   :1.157
+ D  30  THR HG21  D 220  HOH  O   :0.770
+ B   4  GLN  OE1  B   6  LEU HD21 :0.756
+ B  29  LYS  O    B  30  THR  HB  :0.740
+ A  17  GLU  HG2  B  18 AVAL  CG1 :0.710
+ C  13  LEU  N    C  13  LEU HD12 :0.668
+ D  27 BTHR HG21  D 205  HOH  O   :0.629
+ C  13  LEU HD13  D 201  HOH  O   :0.625
+ C  13  LEU HD11  D   4  GLN  NE2 :0.602
+ B  13  GLU  HG3  B 210  HOH  O   :0.573
+ A 126  HOH  O    D  25 BPHE  HE1 :0.559
+ C   3  VAL  HA   D  11  LEU  CD2 :0.542
+ B  29  LYS  O    B  30  THR  CB  :0.539
+ C  13  LEU  H    C  13  LEU HD12 :0.533
+ B   4  GLN  HB2  B 234  HOH  O   :0.502
+ B  13  GLU  CD   B 227  HOH  O   :0.492
+ B  16  TYR  OH   D   8  GLY  HA2 :0.491
+ A  17  GLU  HG2  B  18 AVAL HG13 :0.490
+ C  13  LEU  CD1  C  13  LEU  N   :0.476
+ A  17  GLU  CG   B  18 AVAL  CG1 :0.472
+ C  21  ASN HD21  D  25 BPHE  HD2 :0.456
+ C  13  LEU  CD1  C  13  LEU  H   :0.453
+ D  27 CTHR HG23  D 208  HOH  O   :0.446
+ B  27  THR HG22  C  21  ASN  OD1 :0.424
+ B   4  GLN  OE1  B   6  LEU  CD2 :0.423
+ B  13  GLU  CD   B 226  HOH  O   :0.422
+ A   2  ILE  CD1  B  15  LEU HD11 :0.408
+clashscore = 15.93
+clashscore (B factor cutoff = 40) = 14.336918
